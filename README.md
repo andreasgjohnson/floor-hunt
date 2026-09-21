@@ -5,6 +5,10 @@ Guests sign up on their phone, shoot a handful of photo missions around the show
 floor, get each shot judged by an AI vision model, and land on a live leaderboard.
 A laptop at the front of the booth rotates the approved photos on a big screen.
 
+**Live demo:** [snapbar-hunt-demo.vercel.app](https://snapbar-hunt-demo.vercel.app). Open it on
+your phone to play as a guest, or add `/screen` to the URL to see the booth
+display.
+
 This repo is a description of how the game works and how it is built. The source
 is private.
 
